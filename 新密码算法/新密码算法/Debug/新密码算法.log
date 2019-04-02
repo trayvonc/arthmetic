@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  新密码算法.cpp
+c:\users\f vadim\source\repos\新密码算法\新密码算法\新密码算法.cpp(29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\f vadim\source\repos\新密码算法\新密码算法\新密码算法.cpp(23): warning C4715: “ext_euclid”: 不是所有的控件路径都返回值
+c:\users\f vadim\source\repos\新密码算法\新密码算法\新密码算法.cpp(74): warning C4715: “randomPrime”: 不是所有的控件路径都返回值
+  新密码算法.vcxproj -> C:\Users\F Vadim\source\repos\新密码算法\Debug\新密码算法.exe

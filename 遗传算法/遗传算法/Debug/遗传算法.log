@@ -1,0 +1,218 @@
+﻿  GA.cpp
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): error C2011: “chromosome”:“struct”类型重定义
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(13): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(13): error C2227: “->{ctor}”的左边必须指向类/结构/联合/泛型类型
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(19): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(19): error C2227: “->{ctor}”的左边必须指向类/结构/联合/泛型类型
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(26): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(36): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(36): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(36): error C2228: “.clear”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(40): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(40): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(40): error C2228: “.push_back”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(43): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(43): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(47): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(47): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(48): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(48): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(49): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(49): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(50): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(50): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(61): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(61): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(61): error C2228: “.size”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(64): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(64): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(66): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(66): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(76): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(76): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(87): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(87): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(89): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(98): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(98): error C2228: “.s_fit”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(98): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(100): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(108): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(113): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(113): error C2228: “.s_fit”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(157): error C2079: “cross_tmp1”使用未定义的 struct“chromosome”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(157): error C2079: “cross_tmp2”使用未定义的 struct“chromosome”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(157): error C2079: “cross_1”使用未定义的 struct“chromosome”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(157): error C2079: “cross_2”使用未定义的 struct“chromosome”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(160): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(160): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(160): error C2228: “.push_back”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(161): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(161): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(161): error C2228: “.push_back”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(166): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(172): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(173): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(176): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(176): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(176): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(177): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(177): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(177): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(181): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(181): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(181): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(182): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(182): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(182): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(187): error C2664: “double get_chro_value(chromosome)”: 无法将参数 1 从“int”转换为“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(187): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(188): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(188): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(188): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(190): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(190): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(190): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(191): error C2664: “double get_chro_value(chromosome)”: 无法将参数 1 从“int”转换为“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(191): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(192): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(192): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(192): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(194): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(194): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(194): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(207): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(208): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(211): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(211): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(211): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(212): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(212): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(212): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(216): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(216): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(216): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(217): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(217): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(217): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(223): error C2664: “double get_chro_value(chromosome)”: 无法将参数 1 从“int”转换为“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(223): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(224): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(224): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(224): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(226): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(226): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(226): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(227): error C2664: “double get_chro_value(chromosome)”: 无法将参数 1 从“int”转换为“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(227): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(228): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(228): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(228): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(230): error C2664: “void std::vector<chromosome,std::allocator<_Ty>>::push_back(_Ty &&)”: 无法将参数 1 从“int”转换为“const chromosome &”
+          with
+          [
+              _Ty=chromosome
+          ]
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(230): note: 原因如下: 无法从“int”转换为“const chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(230): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(246): error C2079: “bianyi”使用未定义的 struct“chromosome”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(246): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(250): error C2228: “.s_chromosome”的左边必须有类/结构/联合
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(250): note: 类型是“int”
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(251): error C2664: “double get_chro_value(chromosome)”: 无法将参数 1 从“int”转换为“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(251): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(251): error C2664: “double get_chro_value(chromosome)”: 无法将参数 1 从“chromosome”转换为“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(251): note: 未定义类型 "chromosome" 的使用
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(252): error C2679: 二进制“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(12): note: 可能是“chromosome &chromosome::operator =(chromosome &&)”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(12): note: 或    “chromosome &chromosome::operator =(const chromosome &)”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(252): note: 尝试匹配参数列表“(chromosome, int)”时
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(255): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(273): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(273): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(297): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(297): error C2228: “.s_value”的左边必须有类/结构/联合
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.cpp(301): error C2027: 使用了未定义类型“chromosome”
+  c:\users\f vadim\source\repos\遗传算法\遗传算法\define.h(8): note: 参见“chromosome”的声明
+  遗传算法.cpp
+c:\users\f vadim\source\repos\遗传算法\遗传算法\ga.h(66): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...

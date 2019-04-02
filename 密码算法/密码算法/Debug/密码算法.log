@@ -1,0 +1,4 @@
+﻿  密码算法.cpp
+c:\users\f vadim\source\repos\密码算法\密码算法\密码算法.cpp(26): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\f vadim\source\repos\密码算法\密码算法\密码算法.cpp(22): warning C4715: “ext_euclid”: 不是所有的控件路径都返回值
+  密码算法.vcxproj -> C:\Users\F Vadim\source\repos\密码算法\Debug\密码算法.exe

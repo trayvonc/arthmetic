@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "密码算法", "密码算法\密码算法.vcxproj", "{4B365048-C637-4400-A781-B621010530F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "新密码算法", "..\新密码算法\新密码算法\新密码算法.vcxproj", "{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B365048-C637-4400-A781-B621010530F1}.Debug|x64.ActiveCfg = Debug|x64
+		{4B365048-C637-4400-A781-B621010530F1}.Debug|x64.Build.0 = Debug|x64
+		{4B365048-C637-4400-A781-B621010530F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B365048-C637-4400-A781-B621010530F1}.Debug|x86.Build.0 = Debug|Win32
+		{4B365048-C637-4400-A781-B621010530F1}.Release|x64.ActiveCfg = Release|x64
+		{4B365048-C637-4400-A781-B621010530F1}.Release|x64.Build.0 = Release|x64
+		{4B365048-C637-4400-A781-B621010530F1}.Release|x86.ActiveCfg = Release|Win32
+		{4B365048-C637-4400-A781-B621010530F1}.Release|x86.Build.0 = Release|Win32
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Debug|x64.ActiveCfg = Debug|x64
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Debug|x64.Build.0 = Debug|x64
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Debug|x86.ActiveCfg = Debug|Win32
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Debug|x86.Build.0 = Debug|Win32
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Release|x64.ActiveCfg = Release|x64
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Release|x64.Build.0 = Release|x64
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Release|x86.ActiveCfg = Release|Win32
+		{E28CBDA8-3E5A-4CAD-B7D8-9978B193BB56}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12824713-48BC-4C5B-89DB-95BF0763ECF7}
+	EndGlobalSection
+EndGlobal
